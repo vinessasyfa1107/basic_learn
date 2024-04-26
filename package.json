@@ -1,0 +1,29 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "solid-devtools": "^0.27.3",
+    "typescript": "^5.1.3",
+    "vite": "^4.3.9",
+    "vite-plugin-solid": "^2.7.0"
+  },
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.10.38",
+    "@amcharts/amcharts4-fonts": "^4.0.1",
+    "@amcharts/amcharts4-geodata": "^4.1.27",
+    "@amcharts/editor4": "^4.0.3",
+    "@solidjs/router": "^0.8.3",
+    "ag-grid-community": "^30.1.0",
+    "ag-grid-solid": "^30.1.0",
+    "js": "^0.1.0",
+    "solid-js": "^1.7.6"
+  }
+}
